@@ -5,9 +5,9 @@ import requests
 from flask import Flask, jsonify, request
 
 # create your API token, and set it up in Postman collection as part of the Body section
-API_TOKEN = "zalulpelka"
-# you can get API keys for free here - https://api-ninjas.com/api/jokes
-RSA_KEY = "8DFMHXR6J4F83QUDRGDHDVRQ7"
+API_TOKEN = ""
+# you can get API keys for free here - https://www.visualcrossing.com/weather-api
+RSA_KEY = ""
 
 app = Flask(__name__)
 
